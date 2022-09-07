@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Java . I have experience in c and python programming.
 - 💞️ I’m looking to collaborate on projects 
 - 📫 Reach me :
-- Twitter : https://twitter.com/__shubhamstwt
-- 
+-  My Twitter :https://twitter.com/__shubhamtwt
+-  
 
 <!---
 Shubh4am512/Shubh4am512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

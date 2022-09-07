@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubh4am512
 -  Currently in my sophomore year, majoring in Computer Science And Engineering
 - 👀 I’m interested in Software development and OpenSource.
-- 🌱 I’m currently learning Java Programming language . I have experience in c and python programming.
+- 🌱 I’m currently learning Java . I have experience in c and python programming.
 - 💞️ I’m looking to collaborate on projects 
 - 📫 Reach me :
 - Twitter : https://twitter.com/__shubhamstwt
